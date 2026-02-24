@@ -4,5 +4,9 @@
   "buildNumber": 9,
   "forceUpdate": false,
   "downloadUrl": "https://github.com/tanpeng343-ui/-/releases/download/%E8%BF%BD%E7%95%AA%E5%96%B5/AniMeow1.2.4.apk",
-  "releaseNotes": "TEST"
+  "releaseNotes": "
+  'version': 'v1.2.4',
+        【重构】设置层级：新增“展示定制”二级页面，收纳了列数调节、标题位置、字体大小及显隐开关，设置主页更清爽
+        【优化】首页布局：微调了状态筛选行与年份/标签工具行之间的间距，视觉展示更通透
+        【新增】检查更新功能：在设置中支持一键检查新版本及同步查看最新更新说明"
 }
